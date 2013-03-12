@@ -2,6 +2,20 @@
 
 python image utility commands powered by opencv.
 
+# install
+
+install opencv
+
+    brew install opencv
+
+add python module
+
+    export PYTHONPATH="/usr/local/lib/python2.7/site-packages:$PYTHONPATH"
+
+add $HOME/bin/
+
+    sh install.sh
+
 # usage
 
 ## imshow
